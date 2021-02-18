@@ -1,0 +1,16 @@
+{
+  "author": "Josh Lambright",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.22",
+    "ts-transformer-keys": "^0.4.3"
+  },
+  "description": "A Google Apps Script client, written in TypeScript, for the WebFlow API.",
+  "keywords": ["webflow"],
+  "license": "(ISC OR GPL-3.0)",
+  "main": "index.js",
+  "name": "webflow-gas-client",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "version": "1.0.0"
+}
